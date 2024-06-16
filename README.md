@@ -18,4 +18,4 @@
 </br># combine both notebooks (research model) together to complete the EDA and model evaluation to meet the definition of done for Data Exploration and Model Selection
 
 - Sprint #2 Product Backlog (15 Jun - 29 Jun) Lesson 6 & Lesson 7.
-</br># to be added..
+</br># added requirements.txt, model.py (some error) and app.py.
