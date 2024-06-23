@@ -4,9 +4,6 @@ import re
 
 app = Flask(__name__)
 
-#model_inputs = [12,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1] #For Testing Purpose Predict 0
-#model_inputs = [2,0,9999,9999,9999,80,0,0,0,0,0,0,0,0,0,0] #For Testing Purpose Predict 1
-
 # Method 1: Via HTML Form
 @app.route('/', methods=['GET', 'POST'])
 def home():
